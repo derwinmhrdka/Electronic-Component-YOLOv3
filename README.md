@@ -18,7 +18,9 @@ https://youtu.be/i41cYECaMVI
 
 ## Weights Model and CFG
 You can use my trained YOLOv3-Tiny weights and CFG that can be downloaded on 
+
 https://drive.google.com/file/d/1PAD2vmwc4glE3-WYmvngHKYrzEgoOZrH/view?usp=sharing
+
 Place entire files on **Files** folder to use weights and cfg files.
 
 ![How this works](https://media-exp1.licdn.com/dms/image/C5622AQF8j2MIwr_GuQ/feedshare-shrink_2048_1536/0/1636764970804?e=1642032000&v=beta&t=oBKPomvkYwrzlOIu-2u9DQI8zR3wJRd3sOPmpUn7LW8)
