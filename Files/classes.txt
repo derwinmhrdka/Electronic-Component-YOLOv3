@@ -1,0 +1,5 @@
+resistor
+transistor
+kapasitor
+dioda
+transformator
