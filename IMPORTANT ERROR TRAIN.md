@@ -8,7 +8,7 @@ images_list = glob.glob("data/obj/*.jpg")
 with open("data/train.txt", "w") as f:
     f.write("\n".join(images_list))
 ```
-
+Lalu copy file tersebut ke direkori darknet
 Atau jika anda punya cara lain untuk menggabungkan nama file foto menjadi baris pada file train.txt juga bisa digunakan.
 Format baris pada file train.txt : path/nama_foto.jpg 
 Contoh : data/obj/diode (75).jpg
