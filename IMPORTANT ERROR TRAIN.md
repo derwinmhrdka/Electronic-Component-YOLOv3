@@ -13,4 +13,4 @@ Atau jika anda punya cara lain untuk menggabungkan nama file foto menjadi baris 
 Format baris pada file train.txt : path/nama_foto.jpg 
 Contoh : data/obj/diode (75).jpg
 
-https://mail.google.com/mail/u/0?ui=2&ik=08c8027e95&attid=0.1&permmsgid=msg-a:r5348721128262185816&th=180f91c4974dce16&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ-VQmh-vl888nuGkaZdDf66sDkPekOhL-wvQgpWOHwWV9s7809miXhUiGrLenlZxc3SjjrYI26tGI2L5wYdW7FdEGBWr0bNKruGVD1V477AAiVKVitfUfFKXmE&disp=emb&realattid=ii_l3kzbmz10
+![Train.txt](https://ibb.co/8XS3rsJ)
